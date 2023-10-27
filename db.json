@@ -1,0 +1,632 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "HOME",
+      "href": "/"
+    },
+    {
+      "id": 2,
+      "title": "CATEGORIES",
+      "href": "/categories",
+      "subMenu": [
+        {
+          "id": 1,
+          "title": "Digital"
+        },
+        {
+          "id": 2,
+          "title": "Electronic"
+        },
+        {
+          "id": 3,
+          "title": "Clothing"
+        },
+        {
+          "id": 4,
+          "title": "Home Appliances"
+        },
+        {
+          "id": 5,
+          "title": "Computer"
+        },
+        {
+          "id": 6,
+          "title": "Decorations"
+        },
+        {
+          "id": 7,
+          "title": "Cosmetics"
+        },
+        {
+          "id": 8,
+          "title": "Car accessories"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "PRODUCTS",
+      "href": "/shop",
+      "subMenu": [
+        {
+          "id": 1,
+          "title": "25 Acoustic Noise",
+          "href": "/product/1"
+        },
+        {
+          "id": 2,
+          "title": "ic Headset White",
+          "href": "/product/2"
+        },
+        {
+          "id": 3,
+          "title": "Headphone Black",
+          "href": "/product/3"
+        },
+        {
+          "id": 3,
+          "title": "Computer Mouse",
+          "href": "/product/4"
+        },
+        {
+          "id": 5,
+          "title": "IdeaPad",
+          "href": "/product/5"
+        },
+        {
+          "id": 6,
+          "title": "Porto Sticky Info",
+          "href": "/product/6"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ABOUT US",
+      "href": "/aboutUs"
+    },
+    {
+      "id": 5,
+      "title": "BLOG",
+      "href": "/blogs"
+    },
+    {
+      "id": 6,
+      "title": "SIGN UP",
+      "href": "/register"
+    },
+    {
+      "id": 7,
+      "title": "SPECIAL OFFER!",
+      "href": "/offer"
+    },
+    {
+      "id": 7,
+      "title": "FEATURES",
+      "href": "/home",
+      "subMenu": [
+        {
+          "id": 1,
+          "title": "Medical Equipment",
+          "href": "/"
+        },
+        {
+          "id": 2,
+          "title": "Cosmetic",
+          "href": "/"
+        },
+        {
+          "id": 3,
+          "title": "Climbing Equipments",
+          "href": "/"
+        },
+        {
+          "id": 4,
+          "title": "Bodybuilding",
+          "href": "/"
+        },
+        {
+          "id": 5,
+          "title": "Structural",
+          "href": "/"
+        },
+        {
+          "id": 6,
+          "title": "The watch",
+          "href": "/"
+        },
+        {
+          "id": 7,
+          "title": "Fast food",
+          "href": "/"
+        },
+        {
+          "id": 8,
+          "title": "Game",
+          "href": "/"
+        }
+      ]
+    }
+  ],
+  "banner_home": [
+    {
+      "id": 1,
+      "title": "on Porto Watch Series 5",
+      "price": 100,
+      "img": "/Images/shop_home_banner1.jpg",
+      "duration": 1000
+    },
+    {
+      "id": 2,
+      "title": "on Porto Pods Professiona",
+      "price": 80,
+      "img": "/Images/shop_home_banner2.jpg",
+      "duration": 2000
+    },
+    {
+      "id": 3,
+      "title": "on Bluetooth Speaker",
+      "price": 90,
+      "img": "/Images/shop_home_banner3.jpg",
+      "duration": 3000
+    }
+  ],
+  "slogans": [
+    {
+      "id": 1,
+      "title": "CUSTOMER SUPPORT",
+      "subTitle": "Need Assistence?",
+      "icon": "HeadPhone",
+      "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec vestibulum magna, et dapib."
+    },
+    {
+      "id": 2,
+      "title": "SECURED PAYMENT",
+      "subTitle": "Safe & Fast",
+      "icon": "CreditCard",
+      "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec vestibulum magna, et dapibus lacus. Lorem ipsum dolor sit amet."
+    },
+    {
+      "id": 3,
+      "title": "RETURNS",
+      "subTitle": "Easy & Free",
+      "icon": "ArrowBackOutline",
+      "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec vestibulum magna, et dapib."
+    }
+  ],
+  "three_categories_products": [
+    [
+      [
+        "TOP RATED PRODUCTS"
+      ],
+      [
+        {
+          "id": 1,
+          "title": "Porto Evolution Headset",
+          "src": "/Images/shop14_product9.jpg",
+          "price": 111.00,
+          "offPrice": 101.00,
+          "category": [
+            "Trousers",
+            "Headphone"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "25 Acoustic Noise",
+          "src": "/Images/shop14_product2.jpg",
+          "price": 299.00,
+          "category": [
+            "Watches",
+            "Toys"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Porto Headset",
+          "src": "/Images/shop14_product1-768x768.jpg",
+          "price": 39.00,
+          "category": [
+            "Watches",
+            "Headphone"
+          ]
+        }
+      ]
+    ],
+    [
+      [
+        "BEST SELLING PRODUCTS"
+      ],
+      [
+        {
+          "id": 1,
+          "title": "ic Headset White",
+          "src": "/Images/shop14_product11.jpg",
+          "price": 644.00,
+          "category": [
+            "Dress",
+            "Watches"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "25 Acoustic Noise",
+          "src": "/Images/shop14_product3.jpg",
+          "price": 1999.00,
+          "offPrice": 1699.00,
+          "category": [
+            "T-Shirts",
+            "Watches"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Computer Mouse",
+          "src": "/Images/shop14_product5.jpg",
+          "price": 55.00,
+          "category": [
+            "Watches",
+            "Headphone"
+          ]
+        }
+      ]
+    ],
+    [
+      [
+        "LATEST PRODUCTS"
+      ],
+      [
+        {
+          "id": 1,
+          "title": "IdeaPad",
+          "src": "/Images/shop14_product8.jpg",
+          "price": 1999.00,
+          "offPrice": 1699.00,
+          "category": [
+            "Trousers",
+            "Headphone"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Porto Both Sticky Info",
+          "src": "/Images/shop14_product7.jpg",
+          "price": 108.00,
+          "offPrice": 156.00,
+          "category": [
+            "Watches",
+            "Toys"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Porto Headset",
+          "src": "/Images/shop14_product10.jpg",
+          "price": 241.00,
+          "category": [
+            "Watches",
+            "Headphone"
+          ]
+        }
+      ]
+    ]
+  ],
+  "allProducts": [
+    {
+      "id": 1,
+      "title": "25 Acoustic Noise",
+      "img": "/Images/shop14_product1-768x768.jpg",
+      "caption": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "price": 299.00,
+      "views": 231,
+      "SKU": "854613298",
+      "Categories": [
+        "TOYS",
+        "WATCHES"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 2,
+      "title": "ic Headset White",
+      "img": "/Images/shop14_product2.jpg",
+      "caption": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo",
+      "price": 349.00,
+      "views": 1250,
+      "SKU": " 654111995-1-1-1",
+      "Categories": [
+        "DRESS",
+        "WATCHES"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 3,
+      "title": "Computer Mouse",
+      "img": "/Images/shop14_product3.jpg",
+      "caption": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "price": 55.00,
+      "views": 1000,
+      "SKU": "15615132",
+      "Categories": [
+        "T-SHIRTS",
+        "WATCHES"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 4,
+      "title": "Headphone Black",
+      "img": "/Images/shop14_product5.jpg",
+      "caption": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "price": 589.00,
+      "views": 3232,
+      "SKU": "654111995-1-1-2",
+      "Categories": [
+        "Shoes",
+        "Dress"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 5,
+      "title": "Headphone Black",
+      "img": "/Images/shop14_product7.jpg",
+      "caption": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "price": 493.00,
+      "views": 1044,
+      "SKU": "PT0007",
+      "Categories": [
+        "Trousers",
+        "Headphone"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 6,
+      "title": "laptop",
+      "img": "/Images/shop14_product8.jpg",
+      "caption": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "price": 1699.00,
+      "views": 230,
+      "priceOff": 1999.00,
+      "SKU": "PT0007",
+      "Categories": [
+        "Trousers",
+        "Headphone"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 7,
+      "title": "Porto Evolution Headset",
+      "img": "/Images/shop14_product9.jpg",
+      "caption": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+      "price": 101.00,
+      "views": 765,
+      "SKU": "PT0007",
+      "Categories": [
+        "Trousers",
+        "Headphone"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 8,
+      "title": "Headset porto",
+      "img": "/Images/shop14_product10.jpg",
+      "caption": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+      "price": 671.00,
+      "views": 56,
+      "SKU": "PT0007",
+      "Categories": [
+        "Trousers",
+        "Headphone"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    },
+    {
+      "id": 9,
+      "title": "Porto Headset",
+      "img": "/Images/shop14_product11.jpg",
+      "caption": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+      "price": 167.00,
+      "views": 866,
+      "SKU": "PT0007",
+      "Categories": [
+        "Trousers",
+        "Headphone"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "size": [
+        "Extra Large",
+        "Large",
+        "Medium",
+        "Small"
+      ],
+      "count": 10
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "date": [
+        26,
+        "FEB"
+      ],
+      "title": "Post Format Standard",
+      "src": "/Images/shop1_post1.jpg",
+      "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit...",
+      "comments": []
+    },
+    {
+      "id": 2,
+      "date": [
+        21,
+        "FEB"
+      ],
+      "title": "Post Format Video",
+      "src": "/Images/shop1_post2.jpg",
+      "caption": "Lorem ipsum dolor sit amet, consectet tiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit...",
+      "comments": []
+    },
+    {
+      "id": 3,
+      "date": [
+        18,
+        "FEB"
+      ],
+      "title": "Post Format Image",
+      "src": "/Images/shop1_post4.jpg",
+      "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit...",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "date": [
+        23,
+        "JUN"
+      ],
+      "title": "Post Format Heading phasellus volutpat loremeget mauris ultricesnon scelerisque tellus volutpat.",
+      "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit...",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "date": [
+        11,
+        "JUN"
+      ],
+      "title": "Etiam laoreet sem",
+      "caption": "Lorem ipsum d mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit...",
+      "comments": []
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "erfan",
+      "password": "erfan1381",
+      "email": "akbarierfan@gmail.com",
+      "cartProducts": [],
+      "wallet": 0
+    },
+    {
+      "name": "yosef-00",
+      "email": "yosef545@gmail.com",
+      "password": "69696969",
+      "cartProducts": [],
+      "wallet": 0,
+      "id": 2
+    },
+    {
+      "name": "samane-sh",
+      "email": "samane1285@gmail.com",
+      "password": "12345678",
+      "cartProducts": [],
+      "wallet": 0,
+      "id": 3
+    },
+    {
+      "name": "gadir00",
+      "email": "gadir00@gmail.com",
+      "password": "87654321",
+      "cartProducts": [],
+      "wallet": 0,
+      "id": 4
+    }
+  ]
+}
