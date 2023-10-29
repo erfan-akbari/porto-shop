@@ -27,7 +27,7 @@ porto-shop project Digital products store
 
 ```javascript
 
-const moviePlus = () => {
+const portoShop = () => {
  let packages = [
   'React + Vite',
   'tailwindcss',
